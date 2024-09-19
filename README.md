@@ -17,7 +17,7 @@ This project focuses on predicting customer churn using a telecom dataset. We ex
 6. [Model Comparison](#model-comparison)
 7. [Conclusion](#conclusion)
 8. [Installation and Setup](#installation-and-setup)
-9. 
+
 ---
 
 ## Project Objective
